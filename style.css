@@ -1,0 +1,15 @@
+.firstContainer{
+    background-image : linear-gradient(to right,rgb(145, 121, 42),rgb(80, 146, 137));
+}
+.firstContainer2{
+    background-color: white;
+    justify-content: center;
+}
+.firstButton{
+    float:right;
+}
+.secondButton{
+    text-align: center;
+   justify-content: center;
+   margin-left: 60px;
+}
